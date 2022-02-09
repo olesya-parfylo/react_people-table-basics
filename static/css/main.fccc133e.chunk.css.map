@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,cACE,YAAa,CACb,kBAAmB","file":"main.fccc133e.chunk.css","sourcesContent":[".navdar-brand {\n  display: flex;\n  flex-direction: row;\n}\n"]}
